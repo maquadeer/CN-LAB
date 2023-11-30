@@ -1,13 +1,8 @@
 #include<stdio.h>
-
 #include<stdlib.h>
-
 #include<sys/socket.h>
-
 #include<netinet/in.h>
-
 #include<sys/types.h>
-
 #include<string.h>
 
 main(int argc, char * argv[]) {
